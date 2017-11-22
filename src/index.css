@@ -1,0 +1,8 @@
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+.active{
+  background: #6457C6 !important;
+  box-shadow: 0 0 0 0.2rem rgba(100,87,198,.5) !important;
+}

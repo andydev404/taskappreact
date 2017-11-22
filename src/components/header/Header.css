@@ -1,0 +1,20 @@
+header{
+  background-image: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
+  height: 300px;
+  position: relative;
+  padding-top: 4rem;
+}
+
+header h3{
+  text-align: center;
+  color: #fff;
+  font-size: 3rem;
+}
+
+.curve{
+  width: 100%;
+  position: absolute;
+  bottom: -1px;;
+  left: 0;
+  z-index: 1;
+}
